@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Md Zarak Khan</h1>
-<h3 align="center">A Passionate Developer from Pakistan</h3>
+<h3 align="center">A Passionate MERN Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzarakkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdzarakkhan" /> </p>
 
