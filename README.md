@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/mdzarakkhan" target="blank"><img src="https://img.shields.io/twitter/follow/mdzarakkhan?logo=twitter&style=for-the-badge" alt="mdzarakkhan" /></a> </p>
 
-- 🔭 I’m currently working on **Fiverr & Upwork**
+- 🔭 Currently working on **Fiverr & Upwork**
 
-- 🌱 I’m currently learning **Mern Stack Development**
+- 🌱 Learning **Mern Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://mdzarakkhan.me/](https://mdzarakkhan.me/)
+- 👨‍💻 Portfolio [https://mdzarakkhan.me/](https://mdzarakkhan.me/)
 
-- 💬 Ask me anything about **REACT JS & WORDPRESS**
+- 💬 Ask anything about **REACT JS & WORDPRESS**
 
-- 📫 How to reach me **mdzarakkhan@gmail.com**
+- 📫 How to reach me **mdzarakkhan@gmail.com** **+92 3149011559**
 
 - 📄 Know about my experiences on Fiverr [https://www.fiverr.com/md_zarak_khan](https://www.fiverr.com/md_zarak_khan)
 
